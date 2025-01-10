@@ -3,8 +3,7 @@
   <img src="https://i.gifer.com/Hyxx.gif" width="300"/>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=999iQ&theme=javascript&locale=ru)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
