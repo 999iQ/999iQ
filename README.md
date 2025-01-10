@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Roman, and i'm Golang developer 
 <div id="header" align="center">
   <div><img src="https://media.tenor.com/Z9cvX3ZI4VoAAAAi/billssparkle.gif" width="300px"/></div><br>
-  <p markdown="1">### MY STACK</p>
+  <p>MY STACK</p>
   <p><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
