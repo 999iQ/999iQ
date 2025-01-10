@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/786374678940113386/82A524D10FE4625FDFB62FEC42BF993F3904DCF1/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="100"/>
 </div>
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
