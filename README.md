@@ -3,7 +3,11 @@
   <div><img src="https://media.tenor.com/Z9cvX3ZI4VoAAAAi/billssparkle.gif" width="300px"/></div><br>
   <div>My stack:</div>
   <p><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></p>
-  
+  <p><img src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"></p>
+  <p><img src="![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)"></p>
+  <p><img src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"></p>
+  <p><img src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"></p>
+  <p><img src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"></p>
   <div><img src="https://github-profile-trophy.vercel.app/?username=999iQ&theme=onedark"></div><br>
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact"></div>
   <div><img src="https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true"></div>
