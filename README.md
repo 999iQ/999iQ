@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roman, and i'm Golang developer 
 <div id="header" align="center">
-  <div><img src="https://media1.tenor.com/m/mcMnan9cLgYAAAAd/pepewifhat-pepe.gif" width="300"/></div><br>
+  <div><img src="https://media.tenor.com/Z9cvX3ZI4VoAAAAi/billssparkle.gif"/></div><br>
   <div><img src="https://komarev.com/ghpvc/?username=999iQ&color=green"></div><br>
   <div><img src="https://github-profile-trophy.vercel.app/?username=999iQ&theme=onedark"></div><br>
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact"></div>
@@ -12,6 +12,7 @@
 ![999iQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=999iQ&theme=github-compact)
 
 ---
+### Oh no, the snake is eating my deposits!
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/999iQ/999iQ/output/github-contribution-grid-snake-dark.svg" />
 
 - Telegram: @samura1_bez_me4a
