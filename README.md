@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roman, and i'm Golang developer 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/mcMnan9cLgYAAAAd/pepewifhat-pepe.gif" width="300"/><br>
+  <div><img src="https://media1.tenor.com/m/mcMnan9cLgYAAAAd/pepewifhat-pepe.gif" width="300"/></div><br>
   <div><img src="https://github-profile-trophy.vercel.app/?username=999iQ&theme=onedark"></div><br>
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact"></div>
   <div><img src="https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true"></div>
