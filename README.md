@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.gifer.com/Hyxx.gif" width="100"/>
+  <img src="https://i.gifer.com/Hyxx.gif" width="300"/>
 </div>
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
