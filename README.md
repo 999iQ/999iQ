@@ -1,7 +1,6 @@
 ## Hi there 👋
-<div class="tenor-gif-embed" data-postid="11079742846618316294" data-share-method="host" data-aspect-ratio="1.05957" data-width="100%"><a href="https://tenor.com/view/pepewifhat-pepe-pepewh-gif-11079742846618316294">Pepewifhat Pepewh GIF</a>from <a href="https://tenor.com/search/pepewifhat-gifs">Pepewifhat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div id="header" align="center">
-  <img src="" width="300"/>
+  <img src="https://media1.tenor.com/m/mcMnan9cLgYAAAAd/pepewifhat-pepe.gif" width="300"/>
 </div>
 
 ---
