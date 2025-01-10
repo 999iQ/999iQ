@@ -12,7 +12,7 @@
 ![999iQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=999iQ&theme=github-compact)
 
 ---
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/999iQ/999iQ/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/999iQ/999iQ/output/github-contribution-grid-snake-dark.svg" />
 
 - Telegram: @samura1_bez_me4a
 <!--
