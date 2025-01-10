@@ -8,8 +8,11 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true)
-
+<p align='right'>
+  img src="https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true"
+</p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true)
+ -->
 ---
 ### 📈 GitHub Activity Graph:
 ![999iQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=999iQ&theme=github-compact)
