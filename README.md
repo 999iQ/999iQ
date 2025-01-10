@@ -15,6 +15,8 @@
 ---
 ### 📈 GitHub Activity Graph:
 ![999iQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=999iQ&theme=github-compact)
+
+![](https://komarev.com/ghpvc/?username=999iQ&color=green)
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
