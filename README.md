@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="[https://i.gifer.com/Hyxx.gif](https://tenor.com/ru/view/pepewifhat-pepe-pepewh-gif-11079742846618316294)" width="300"/>
+  <img src="https://tenor.com/ru/view/pepewifhat-pepe-pepewh-gif-11079742846618316294" width="300"/>
 </div>
 
 ---
