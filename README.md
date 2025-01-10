@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Roman, and i'm Golang developer 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/mcMnan9cLgYAAAAd/pepewifhat-pepe.gif" width="300"/>
 </div>
