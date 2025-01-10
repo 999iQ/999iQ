@@ -22,10 +22,12 @@
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/999iQ/999iQ/output/github-contribution-grid-snake-dark.svg" />
 
 ### Contanct with me:
-<a align='center' href="https://t.me/samura1_bez_me4a">
+<div align='center'>
+  <a align='center' href="https://t.me/samura1_bez_me4a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<div align='center'><img src="https://komarev.com/ghpvc/?username=999iQ&color=green"></div><br>
+  <img src="https://komarev.com/ghpvc/?username=999iQ&color=red">
+</div>
 
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
