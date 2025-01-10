@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1848161050693397145/07E8E52F7914CE77736AE3183172F7E0FAF30BDE/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="100"/>
+  <img src="https://i.gifer.com/Hyxx.gif" width="100"/>
 </div>
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
