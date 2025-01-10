@@ -3,7 +3,7 @@
   <img src="https://i.gifer.com/Hyxx.gif" width="300"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&&bg_color=DEG,00FA9A,FF1493,00FFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&&bg_color=DEG,00FA9A,000000,00FFFF)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
