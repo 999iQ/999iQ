@@ -11,7 +11,7 @@
 
 ---
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?999iQ)
+![999iQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=999iQ&theme=dracula)
 <!--
 **999iQ/999iQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
