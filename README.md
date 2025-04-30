@@ -23,7 +23,7 @@
 
 ### Contanct with me:
 <div align='center'>
-  <a align='center' href="https://t.me/samura1_bez_me4a">
+  <a align='center' href="https://t.me/sololvlup99">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a><br>
   <img src="https://komarev.com/ghpvc/?username=999iQ&color=yellow">
