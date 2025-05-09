@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></p><br>
   <div><img src="https://github-profile-trophy.vercel.app/?username=999iQ&theme=onedark"></div><br>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact"></div>
-  <div><img src="https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true"></div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=999iQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true">
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999iQ&show_icons=true&theme=neon&layout=compact"></div>  
+</div>
 </div>
 
 ---
